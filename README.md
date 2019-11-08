@@ -1,2 +1,1 @@
-# arch-installation-scripts
-ArchLinux Installation Scripts
+# ArchLinux Installation Scripts
